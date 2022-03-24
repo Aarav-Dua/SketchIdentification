@@ -1,0 +1,35 @@
+body{
+
+text-align: center;
+background-image: url("MIRACLE.jpg");
+color: blue;
+font-weight: bold;
+
+
+}
+
+#randomthings{
+
+    background-color: pink;
+    border-radius: 25px;
+    width: 40%;
+    border: 2px;
+    border-color: greenyellow;
+    border-style: dashed;
+    border-width: 10px;
+    margin-left: 30%;
+}
+
+Canvas{
+
+    margin-top:5%;
+    border-radius: 20px;
+
+    border: 2px;
+    border-color: rebeccapurple;
+    border-style: dashed;
+    border-width: 10px;
+
+}
+
+
